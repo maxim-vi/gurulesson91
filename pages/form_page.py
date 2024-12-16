@@ -1,6 +1,6 @@
 from selene import browser, by, have
-from gurulesson91.sources import resources
-from gurulesson91.sources.user_data import User
+from sources import resources
+from sources.user_data import User
 
 
 class PracticeFormPage:

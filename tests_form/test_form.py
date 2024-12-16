@@ -1,5 +1,5 @@
-from gurulesson91.pages.form_page import PracticeFormPage
-from gurulesson91.sources.user_data import user_for_registration
+from pages.form_page import PracticeFormPage
+from sources.user_data import user_for_registration
 
 
 def test_form():
